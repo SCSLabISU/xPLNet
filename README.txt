@@ -1,5 +1,5 @@
 
-###########################################################################################################################
+##################################################################################################
 
 DATA ACCESS FORM:
 
@@ -9,7 +9,7 @@ https://docs.google.com/forms/d/1FggY3gRfDUxH8D4hCH-OHwEIHqa2tSdFXwobvM27Qh4/edi
 
 Thank you for your interest. The download link will be sent to your email once the form is completed. 
 
-###########################################################################################################################
+##################################################################################################
 
 THE FOLLOWING DESCRIBES THE MODEL ARCHITECTURE AND HYPER-PARAMETERS:
 
