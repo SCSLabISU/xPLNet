@@ -1,4 +1,15 @@
 
+###########################################################################################################################
+
+DATA ACCESS FORM:
+
+Please fill out this form that asks for your name and a valid email address to gain access to the data and model weights:
+
+https://docs.google.com/forms/d/1FggY3gRfDUxH8D4hCH-OHwEIHqa2tSdFXwobvM27Qh4/edit
+
+Thank you for your interest. The download link will be sent to your email once the form is completed. 
+
+###########################################################################################################################
 
 THE FOLLOWING DESCRIBES THE MODEL ARCHITECTURE AND HYPER-PARAMETERS:
 
