@@ -39,7 +39,7 @@ Bibtex:
 
 ##################################################################################################
 
-THE FOLLOWING DESCRIBES THE MODEL ARCHITECTURE AND HYPER-PARAMETERS:
+THE FOLLOWING DESCRIBES THE MODEL ARCHITECTURE AND HYPER-PARAMETERS (use the seed # provided to reproduce the results from the paper):
 
 seed = 1337 (use numpy.random.seed(seed))
 
