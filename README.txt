@@ -14,7 +14,7 @@ Please note: The data available through this link are of RGB images, each of sha
 
 soumiks@iastate.edu (while cc'ing: sghosal@media.mit.edu)
 
-Users are welcome to create "Issues" within this repository if they face any problems regarding execution and/or deployment of the trained model on their own data-sets or on the shared data.
+Users are welcome to create "Issues" within this repository if they face any problems regarding execution and/or deployment of the trained model on their own data-sets or on the shared data: https://github.com/SCSLabISU/xPLNet/issues
 
 ##################################################################################################
 
