@@ -98,7 +98,7 @@ BATCH_SIZE for Training: 60
 Epochs = 150 (90s per epoch)
 
 INPUT SHAPE: (3, 64, 64) [channels first]
-INPUT PRE_PROCESSING: Input to the network must be normalized by the maximum value of the input image channels before being fed to the trained network for online/offline classification tasks. 
+INPUT PRE-PROCESSING: Input to the network must be normalized by the maximum value of the input image channels before being fed to the trained network for online/offline classification. 
 FRONTEND: Keras
 BACKEND: Theano
 
