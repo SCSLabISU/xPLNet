@@ -99,7 +99,7 @@ Epochs = 150 (90s per epoch)
 
 INPUT SHAPE: (3, 64, 64) [channels first]
 INPUT PRE_PROCESSING: Input to the network must be normalized by the maximum value of the input image channels before being fed to the trained network for online/offline classification tasks. 
-PACKAGE USED: Keras
+FRONTEND: Keras
 BACKEND: Theano
 
 GPU Used: NVIDIA GeForce GTX TITAN X (12207 MB of dedicated GPU memory) 
