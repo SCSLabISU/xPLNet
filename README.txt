@@ -10,8 +10,9 @@ https://docs.google.com/forms/d/1FggY3gRfDUxH8D4hCH-OHwEIHqa2tSdFXwobvM27Qh4/edi
 
 Thank you for your interest. The download link will be sent to your email once the form is completed. 
 
-Please note: The data available through this link are of images, each of shape 64 X 64 X 3. If a higher resolution dataset is required,
-please address your request to: soumiks@iastate.edu (while cc'ing: sambuddha.ghosal@gmail.com)
+Please note: The data available through this link are of RGB images, each of shape [64 X 64 X 3]. If a higher resolution dataset is required, please address your request to: 
+
+soumiks@iastate.edu (while cc'ing: sghosal@media.mit.edu)
 
 ##################################################################################################
 
@@ -97,7 +98,9 @@ BATCH_SIZE for Training: 60
 Epochs = 150 (90s per epoch)
 
 INPUT SHAPE: (3, 64, 64) [channels first]
-BACKEND: Theano.
+INPUT PRE_PROCESSING: Input to the network must be normalized by the maximum value of the input image channels before being fed to the trained network for online/offline classification tasks. 
+PACKAGE USED: Keras
+BACKEND: Theano
 
 GPU Used: NVIDIA GeForce GTX TITAN X (12207 MB of dedicated GPU memory) 
 CUDA 8.0 (cuDNN 5.1)
