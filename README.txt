@@ -14,6 +14,8 @@ Please note: The data available through this link are of RGB images, each of sha
 
 soumiks@iastate.edu (while cc'ing: sghosal@media.mit.edu)
 
+Users are welcome to create "Issues" within this repository if they face any problems regarding execution and/or deployment of the trained model on their own data-sets or on the shared data.
+
 ##################################################################################################
 
 CITATION:
@@ -106,7 +108,7 @@ GPU Used: NVIDIA GeForce GTX TITAN X (12207 MB of dedicated GPU memory)
 CUDA 8.0 (cuDNN 5.1)
 
 Training Samples = 59184 (validation split = 0.1)
-test Samples = 6576
+Test Samples = 6576
 
 Test Accuracy = 94.13%
 
