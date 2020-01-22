@@ -3,8 +3,7 @@
 
 DATA ACCESS FORM:
 
-Please fill out this form that asks for your name, a valid email address and the name of the institution you are affiliated with, to
-gain access to the data and model weights:
+Please fill out this form that asks for your name, a valid email address and the name of the institution you are affiliated with, to gain access to the data and model weights:
 
 https://docs.google.com/forms/d/1FggY3gRfDUxH8D4hCH-OHwEIHqa2tSdFXwobvM27Qh4/edit
 
