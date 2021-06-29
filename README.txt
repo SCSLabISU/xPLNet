@@ -17,6 +17,12 @@ Users are welcome to create "Issues" within this repository if they face any pro
 
 ##################################################################################################
 
+LABELLING INFORMATION for shared data:
+
+Please follow Figure 2 for class/label information for the soybean leaf image datset. Images within a particular folder fall under the class information associated with the folder name (number) as shown in Figure 2. For example, images in folder '0' correspond to images under the "Bacterial Blight" class and so on.
+
+##################################################################################################
+
 CITATION:
 
 If you use this dataset and/or the methods proposed in our research please cite our PNAS paper available at:
